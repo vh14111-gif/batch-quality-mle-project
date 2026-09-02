@@ -1,0 +1,5 @@
+Candidate,p,Likelihood,Log-Likelihood
+"Candidate A (p = 0.50, naive guess)",0.5,0.002102571161231026,-6.164594320682313
+"Candidate B (p = 0.60, conservative estimate)",0.6,0.03572701198334632,-3.3318482381139365
+"Candidate C (p = 0.725, sample proportion k/n)",0.725,0.1400916829563859,-1.9654581924521288
+"MLE (analytical, p_hat = k/n)",0.725,0.1400916829563859,-1.9654581924521288
